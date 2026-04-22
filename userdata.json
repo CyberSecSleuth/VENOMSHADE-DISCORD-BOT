@@ -1,0 +1,12 @@
+{
+  "auto_reactions": {
+    "USER_ID": {
+      "keywords": [
+        "KEYWORD_1",
+        "KEYWORD_2"
+      ],
+      "emoji": "EMOJI_ID",
+      "message": "REACTION_MESSAGE_STRING"
+    }
+  }
+}
